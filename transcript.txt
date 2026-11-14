@@ -1,0 +1,10 @@
+1+2*3 => 7 expected 7 PASS
+(1+2)*3 => 9 expected 9 PASS
+10/4 => 2.5 expected 2.5 PASS
+2*2*2*2 => 16 expected 16 PASS
+7-3-2 => 2 expected 2 PASS
+(8-2)/(1+2) => 2 expected 2 PASS
+3.5+1.5 => 5 expected 5 PASS
+100 => 100 expected 100 PASS
+2*(3+(4-1)) => 12 expected 12 PASS
+9/9 public cases pass; file bytes: 36
